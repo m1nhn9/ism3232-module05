@@ -1,7 +1,7 @@
 # module04_programming/main.py
 # Author: Minh Nguyen
 
-from module04_programming.business_rules import (
+from business_rules import (
     apply_discount,
     calculate_total,
     get_approval_tier,
